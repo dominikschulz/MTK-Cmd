@@ -2,6 +2,7 @@ This is the README file for MTK-Cmd,
 MTK CLI infrastructure and basic commands.
 
 ## Description
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/gittex/MTK-Cmd?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 MTK-Cmd provides the MTK CLI
 infrastructure and basic commands
